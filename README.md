@@ -159,7 +159,3 @@ jupyter notebook
 The DQN agent was trained and tested across increasing episode counts (200 → 1,000 → 10,000), with performance compared against baseline optimization methods covered in class.
 
 ---
-
-## 📄 License
-
-This project was completed as academic coursework for CP468 at Wilfrid Laurier University. For educational use only.
