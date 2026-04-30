@@ -11,7 +11,7 @@ A driver traveling from a source to a destination needs to park near the destina
 This system uses a **Deep Q-Network (DQN)** reinforcement learning agent to:
 - Continuously evaluate parking options while the driver is en route
 - Respect the driver's maximum walking distance constraint
-- Minimize total travel time, walking distance, and parking cost
+- Minimize total travel time, walking distance, and parking cost ($)
 
 The urban road network is modeled as a **directed graph** `G = (N, E)`, where nodes represent intersections, origin `S`, destination `D`, and parking lots `P = {p₁, p₂, …, pₘ}`. Edge weights `Tᵢⱼ` represent travel times that vary dynamically.
 
