@@ -1,4 +1,4 @@
-# 🚗 Dynamic Parking Assignment in Urban Networks
+# Dynamic Parking Assignment in Urban Networks
 
 A reinforcement learning-based intelligent parking recommendation system that dynamically assigns drivers to optimal parking lots in real time, adapting to changing traffic, availability, and pricing conditions.
 
