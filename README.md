@@ -24,7 +24,7 @@ The urban road network is modeled as a **directed graph** `G = (N, E)`, where no
 | Anushree | Task 1 – Environment Type Analysis |
 | Aleena | Task 2 – PEAS Specification & Agent-Environment Diagram |
 | Moussa | Task 3 – Search Problem Formulation |
-| Arav & Pedro | Task 4 – Implementation (DQN) |
+| Arav & Pedro | Task 4 – Implementation of Q learning Agent |
 
 ---
 
