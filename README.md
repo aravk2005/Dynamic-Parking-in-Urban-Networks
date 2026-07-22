@@ -114,9 +114,9 @@ Where `a` and `b` are tunable weight coefficients balancing walking distance vs.
 
 ## Implementation (Task 4)
 
-### Method: Deep Q-Network (DQN)
+### Method: Q learning Agent (DQN)
 
-Built using **PyTorch**, the DQN agent learns to recommend optimal parking lots through trial and error across many simulated trips.
+Built using **PyTorch**, the agent learns to recommend optimal parking lots through trial and error across many simulated trips.
 
 The implementation covers all six search problem components:
 1. State Representation
