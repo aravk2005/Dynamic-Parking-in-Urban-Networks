@@ -8,7 +8,7 @@ A reinforcement learning-based intelligent parking recommendation system that dy
 
 A driver traveling from a source to a destination needs to park near the destination. The challenge: conditions change constantly — traffic worsens, parking lots fill up, and prices shift. A static, one-time decision isn't enough.
 
-This system uses a **Deep Q-Network (DQN)** reinforcement learning agent to:
+This system uses a **Q** reinforcement learning agent to:
 - Continuously evaluate parking options while the driver is en route
 - Respect the driver's maximum walking distance constraint
 - Minimize total travel time, walking distance, and parking cost ($)
